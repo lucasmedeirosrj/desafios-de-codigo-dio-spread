@@ -1,2 +1,2 @@
-# Primeiro Projeto em Desenvolvimento
-Repositorio destinado ao meu primeiro projeto na área de desenvolvimento
+# Desafios de Código do Bootcamp da DIO (Spread)
+Repositorio destinado para os desafios de código do curso.
